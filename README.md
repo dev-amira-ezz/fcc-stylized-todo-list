@@ -24,6 +24,7 @@ This is a lab project built as part of the [Full-Stack Web Development certifica
 ## 🛠️ Technologies Used
 
 - HTML5
+- CSS3
 
 ## 🚀 Live Demo
 
