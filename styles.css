@@ -12,8 +12,32 @@ h1 {
   text-align: center;
   color: beige;
 }
+
 .todo-list>li {
   background-color: beige;
-  margin: 1rem;
+  margin: 1rem auto;
+  max-width: 90%;
   line-height: 3rem;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+a:visited {
+  color: darkviolet;
+}
+
+a:hover {
+  color: green;
+}
+
+a:focus {
+  outline: auto;
+}
+
+a:active {
+  color: darkred;
 }
