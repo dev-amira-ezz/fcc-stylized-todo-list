@@ -1,0 +1,19 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+  max-width: 400px;
+  margin: 3rem auto;
+  border: 3px lightgray solid;
+  background-color: darkolivegreen;
+}
+
+h1 {
+  text-align: center;
+  color: beige;
+}
+.todo-list>li {
+  background-color: beige;
+  margin: 1rem;
+  line-height: 3rem;
+}
